@@ -1,0 +1,10 @@
+{
+    "instantMongo": {
+        "connections": [
+            {
+                "name": "New Database Connection",
+                "uri": "mongodb+srv://mohan:281122@cluster0.ux5lwdh.mongodb.net/?retryWrites=true&w=majority"
+            }
+        ]
+    }
+}
